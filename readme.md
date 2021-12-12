@@ -19,3 +19,11 @@ pip install -r tutorial\requirements.txt | windows
 TO RUN THE APP TYPE 
 
 python main.py
+
+
+
+CONTROLS:
+
+W S A D - left spaceship movement
+UP DOWN LEFT RIGHT - right spaceship movement
+LCTRL, RCTRL - shoot
